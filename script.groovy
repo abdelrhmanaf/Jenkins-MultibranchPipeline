@@ -1,3 +1,7 @@
+def initApp() {
+    echo 'initialize CICD'
+}
+
 def buildApp() {
     echo 'building the application...'
 } 
